@@ -1,0 +1,6 @@
+site_name: goLe Inventory Manager
+theme: readthedocs
+repo_url: https://github.com/coneking/readthedocs/
+nav:
+  - Introduction: 'index.md'
+  - Nada: 'nada.md'
